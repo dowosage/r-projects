@@ -100,6 +100,6 @@ You can also specify a sheet by name or number.  Just type “sheet =” followe
 
 read_excel(readxl_example("type-me.xlsx"), sheet = "numeric_coercion")
 
-##############
+
 
 
