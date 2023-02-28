@@ -1,4 +1,3 @@
-
 # import csv to a data frame
 bookings_df <- read_csv("hotel_bookings.csv")
 
